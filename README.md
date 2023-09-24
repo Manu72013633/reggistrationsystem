@@ -18,4 +18,14 @@ I have developed a login page using django and html with user authentication and
 
 1. Clone this repository to your local machine:
    ```shell
-   
+   https://github.com/Manu72013633/reggistrationsystem.git
+## steps to navigate the file
+-**Navigate to the project directory:cd your-repo
+-**python -m venv venv: python -m env venv
+-**Activate the virtual environment (Linux/Mac): source venv/bin/activate
+-**Activate the virtual environment (Windows): .\venv\Scripts\activate
+-**Set up the database: python manage.py migrate
+-**Create a superuser (admin): python manage.py createsuperuser
+-**Start the development server: python manage.py runserver
+
+
